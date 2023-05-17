@@ -16,5 +16,5 @@ In addition to my technical experiences, I am a strong collaborator and communic
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakypandit&theme=onedark&row=1&no-bg=true&margin-w=5" alt="freakypandit" /></a> </p>
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=freakypandit&show_icons=true&theme=dark&locale=en&card_width=320" alt="freakypandit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=freakypandit&show_icons=true&theme=dark&locale=en&card_width=320&theme=transparent" alt="freakypandit" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=freakypandit&card_width=350" alt="freakypandit" /></p>
