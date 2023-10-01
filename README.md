@@ -1,5 +1,3 @@
-
-<p><img align="center" src="https://media.licdn.com/dms/image/D4D16AQGS6rLk6_Fyrg/profile-displaybackgroundimage-shrink_350_1400/0/1679973109064?e=1689811200&v=beta&t=4OlOs5OJxqf90-zslf1dh9bwagIBFH7AU_uXaw81rKk" alt="freakypandit" /></p>
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Big Data Engineer & Web3 Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=freakypandit&label=Profile%20views&color=0e75b6&style=flat" alt="freakypandit" /> </p>
