@@ -7,9 +7,25 @@
 
 <h4 align="left"> About Me </h3>
 <h6 align="left">
-I am a results-oriented engineer with a passion for solving critical problems, with a proven track record of delivering impactful data-driven solutions in fast-paced environments. Currently, I am working at American Express as a Sr. Associate, where my role involves a blend of data analytics and data engineering, I regularly work with stakeholders to define requirements for new reports and dashboards, write extensive SQL, Python, and Bash scripts to create logics and automation, and monitor and maintain big data ETL jobs.
-<br/><br/>
-In addition to my technical experiences, I am a strong collaborator and communicator and have experience working with multiple stakeholders to drive new initiatives. Feel free to contact me for collaboration, consulting, or just a casual coffee chat about tech & more.
+I'm Deepak Pandey, a Data Engineer based in Gurugram, India, with a relentless passion for transforming raw data into strategic goldmines. With a Bachelor's in Information Technology from Panjab University, I have honed my skills in Python, SQL, Bash, and ETL technologies like Hive and SSIS.
+
+Technical Skills: Python, SQL, Bash, ETL (Hive, SSIS), Git
+
+In my current role at American Express, I've led the charge in migrating Teradata-based reports to big data ETL using HiveQL and Pyspark, achieving 100% inventory migration ahead of schedule. I've also architected a JIRA time tracking dashboard, optimized Hive job efficiency, and automated complex Excel reports, resulting in remarkable time and effort savings.
+
+Contact: d.pandey11585@gmail.com
+
+My technical prowess extends to Hadoop, Apache PySpark, Linux, Apache Airflow, GitHub, GCP, and Docker.
+
+GitHub: github.com/freakypandit
+
+Website: flowcv.me/deepakpandey
+
+LinkedIn: linkedin.com/in/d-pandey
+
+However, I believe it's not just about technology; it's about effective decision-making, stakeholder management, ownership, and mentorship that drive success.
+
+I've had the privilege of leading a team of 4 data engineers, defining our roadmap, performance goals, and priorities. My collaborative spirit and problem-solving skills have been instrumental in delivering game-changing solutions. Let's connect and explore how my expertise can elevate your data initiatives.
 </p>
 
 
