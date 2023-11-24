@@ -9,8 +9,6 @@ I'm Deepak Pandey, a Data Engineer based in Gurugram, India, with a relentless p
 
 Technical Skills: Python, SQL, Bash, ETL (Hive, SSIS), Git
 
-In my current role at American Express, I've led the charge in migrating Teradata-based reports to big data ETL using HiveQL and Pyspark, achieving 100% inventory migration ahead of schedule. I've also architected a JIRA time tracking dashboard, optimized Hive job efficiency, and automated complex Excel reports, resulting in remarkable time and effort savings.
-
 Contact: d.pandey11585@gmail.com
 
 My technical prowess extends to Hadoop, Apache PySpark, Linux, Apache Airflow, GitHub, GCP, and Docker.
