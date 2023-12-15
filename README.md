@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">Big Data Engineer & Web3 Developer</h3>
+<h1 align="center">Hello 👋, I'm Deepak</h1>
+<h3 align="center">Data Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=freakypandit&label=Profile%20views&color=0e75b6&style=flat" alt="freakypandit"/> </p>
 
 
 <h4 align="left"> About Me </h3>
 <p align="left">
-I'm Deepak Pandey, a Data Engineer based in Gurugram, India, with a relentless passion for transforming raw data into strategic goldmines. With a Bachelor's in Information Technology from Panjab University, I have honed my skills in Python, SQL, Bash, and ETL technologies like Hive and SSIS.
+I am Deepak, a Data Engineer based in Gurugram, India, with a relentless passion for transforming raw data into strategic goldmines. With a Bachelor's in Information Technology from Panjab University, I have honed my skills in Python, SQL, Bash, and ETL technologies like Hive and SSIS.
 
 Technical Skills: Python, SQL, Bash, ETL (Hive, SSIS), Git
 
